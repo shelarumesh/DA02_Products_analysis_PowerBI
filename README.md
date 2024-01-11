@@ -1,4 +1,4 @@
-# Data-Analysis-Product-analysis
+# DA02_Products_analysis_POWERBI
 This project is related to data analysis with Power BI 
 
 # Colletion of Data 
